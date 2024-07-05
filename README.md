@@ -12,6 +12,10 @@ Refresh Button: Refresh the weather data on the details screen.
 Back to Home: Easily navigate back to the home screen from the weather details screen.
 
 # Screenshots
+![home screen](https://github.com/Shree0m/weather_forecast_app/assets/115340655/b438d96c-2559-4547-8f2e-eaeb784c0aba)  ![weatherDatilsScreenTwo](https://github.com/Shree0m/weather_forecast_app/assets/115340655/68347039-0386-4b7a-b94e-a00d00471edf)  ![weatherDatilsScreenOne](https://github.com/Shree0m/weather_forecast_app/assets/115340655/98974cd2-1679-4bb9-848d-17e84b885784)
+
+
+
 
 # Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -21,4 +25,5 @@ Flutter SDK: Flutter Installation
 A free API key from OpenWeatherMap
 
 # Installation
-Clone the repository:
+Clone the repository: 
+https://github.com/Shree0m/weather_forecast_app.git
